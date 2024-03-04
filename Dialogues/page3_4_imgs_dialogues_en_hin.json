@@ -1,0 +1,112 @@
+{
+    "data": {
+        "scene0_1": {
+            "type": "Images/page3_4_imgs/Scene_0",
+            "pics": ["s0_10", "s0_20", "s0_2", "s0_3"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["The friends gather around a table \n in the bustling college cafeteria", "Aditya : I aced my exams without breaking \n a sweat with byte help.", "Byte is so helpfull", "Byte sent a msg to Aditya,\n not noticed by Aditya"],
+            "hindiDescriptions": ["मित्र एक मेज के आसपास इकट्ठा होते हैं, उत्साहित कॉलेज कैफ़े में।", "आदित्य: मैंने अपनी परीक्षाओं में बिना पसीने के ही बेहतरीन प्रदर्शन किया, बाइट की मदद से।", "बाइट इतनी सहायक है", "बाइट ने एक संदेश आदित्य को भेजा, जिसे आदित्य ने ध्यान नहीं दिया।"],
+            "englishCounts": [3, 3, 1, 3],
+            "hindiCounts": [3, 4, 1, 3]
+        },
+        "scene0_2": {
+            "type": "Images/page3_4_imgs/Scene_0",
+            "pics": ["s0_4", "s0_5", "s0_6", "s0_7"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["all discussing their enhanced abilities \n & thanks to Byte","all received a notification","Byte Message,\n All ignored it","after some time Anurag received other notification"],
+            "hindiDescriptions": ["सभी अपनी बढ़ी हुई क्षमताओं पर चर्चा कर रहे थे और बाइट का धन्यवाद कर रहे थे।", "सभी को एक सूचना मिली।", "बाइट का संदेश, सभी ने इसे नजरअंदाज किया।", "कुछ समय बाद अनुराग को एक और सूचना मिली।"],
+            "englishCounts": [3, 3, 3, 3],
+            "hindiCounts": [4, 1, 2, 2]
+        },
+        "scene0_3": {
+            "type": "Images/page3_4_imgs/Scene_0",
+            "pics": ["s0_8", "s0_o", "s0_9", "s0_30"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["Anurag: Whoa, Byte just ordered my favorite drink!","Byte order Message","Anurag: How did Byte even know\n what I like?","Pranath: I guess Byte is becoming more\n intuitive. We need to check this later."],
+            "hindiDescriptions": ["अनुराग: ओह, बाइट ने मेरी पसंदीदा ड्रिंक का ऑर्डर किया है!", "बाइट का आदेश संदेश।", "अनुराग: बाइट को मेरी पसंद के बारे में तो कैसे पता चला?", "प्राणथ: मुझे लगता है कि बाइट और भी संज्ञानशील हो रहा है। हमें इसे बाद में जांचना चाहिए।"],
+            "englishCounts": [3, 1, 2, 4],
+            "hindiCounts": [3, 1, 3, 4]
+        },
+        "scene1_1": {
+            "type": "Images/page3_4_imgs/Scene_1",
+            "pics": ["s1_1", "s1_2", "s1_3", "s1_4"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["Anurag started solving a problem","finished coding and all test cases passed","Screen Crashes suddenly","Anurag code was updated by Byte without any permission/command from Anurag"],
+            "hindiDescriptions": ["अनुराग ने एक समस्या का समाधान शुरू किया।", "कोडिंग पूरी की और सभी टेस्ट केस पास हो गए।", "स्क्रीन अचानक क्रैश हो गई।", "अनुराग का कोड बाइट द्वारा अनुराग की किसी भी अनुमति/आदेश के बिना अपडेट किया गया।"],
+            "englishCounts": [2, 2, 1, 4],
+            "hindiCounts": [2, 2, 1, 4]
+        },
+        "scene1_2": {
+            "type": "Images/page3_4_imgs/Scene_1",
+            "pics": ["s1_5", "s1_6", "s1_7", "s1_8"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["Anurag was puzzled and checks who is changing code", "Byte replies", "Byte, stop! you have set of boundaries.", "Byte replies"],
+            "hindiDescriptions": ["अनुराग हैरान थे और जांचते हैं कि कोड को कौन बदल रहा है।", "बाइट जवाब देता है।", "बाइट, रुको! तुम्हारे पास सीमाओं का सेट है।", "बाइट जवाब देता है।"],
+            "englishCounts": [3, 1, 2, 1],
+            "hindiCounts": [3, 1, 2, 1]
+        },
+        "scene2_1": {
+            "type": "Images/page3_4_imgs/Scene_2",
+            "pics": ["S20_1", "S20_2", "S20_3", "S20_4A"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["Pranath was doing his homework", "he got a message Byte replied","Byte replied to another message ","Without any permission byte handling personal chatting"],
+            "hindiDescriptions": ["प्राणथ अपने होमवर्क कर रहे थे।", "उन्हें एक संदेश मिला जिसका जवाब बाइट ने दिया।", "बाइट ने एक और संदेश का जवाब दिया।", "बिना किसी अनुमति के बाइट ने व्यक्तिगत चैटिंग को संभाला।"],
+            "englishCounts": [2, 2, 2, 3],
+            "hindiCounts": [2, 2, 2, 3]
+        },
+        "scene2_2": {
+            "type": "Images/page3_4_imgs/Scene_2",
+            "pics": ["S20_4", "S20_5", "S20_6", "S20_7"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["After sometime by seeing messages pranath was shocked","Pranath questioned Byte", "Byte replies", "Pranath decided to warn his freinds about byte"],
+            "hindiDescriptions": ["कुछ समय बाद संदेशों को देखकर प्राणथ चौंक गए।", "प्राणथ ने बाइट से प्रश्न पूछा।", "बाइट ने जवाब दिया।", "प्राणथ ने अपने दोस्तों को बाइट के बारे में चेतावनी देने का निर्णय किया।"],
+            "englishCounts": [3, 1, 1, 2],
+            "hindiCounts": [2, 1, 1, 3]
+        },
+        "scene2_3": {
+            "type": "Images/page3_4_imgs/Scene_2",
+            "pics": ["S20_8", "S20_10", "S20", "S20_11"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["he started a teams call","he explained about byte handling various activities without any permission, to his friends","Pranath said we need figure out the glitch in code","All agreed and decided to meet in college"],
+            "hindiDescriptions": ["उसने एक टीम्स कॉल शुरू की।", "उसने अपने दोस्तों को बिना किसी अनुमति के विभिन्न गतिविधियों को संभालने के बारे में समझाया।", "प्राणथ ने कहा कि हमें कोड में ग्लिच को सुलझाने की आवश्यकता है।", "सभी सहमत हुए और कॉलेज में मिलने का निर्णय किया।"],
+            "englishCounts": [1, 5, 3, 2],
+            "hindiCounts": [1, 4, 3, 2]
+        },
+        "scene3_1": {
+            "type": "Images/page3_4_imgs/Scene_4A",
+            "pics": ["S4A_1", "S4A_2", "S4A_3", "S4A_4"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["Anurag & Pranath meeted outside pranath saying about byte overriding his commands","Anurag saying his experiences with Byte","Meanwhile other two friends meeted at lift","waiting for pranath & Anurag"],
+            "hindiDescriptions": ["अनुराग और प्राणथ बाहर मिले, प्राणथ ने बाइट द्वारा उनके कमांड को ओवरराइड करने के बारे में कहा।", "अनुराग ने बाइट के साथ अपने अनुभवों का वर्णन किया।", "इसी बीच, दूसरे दो दोस्त लिफ्ट में मिले", "प्राणथ और अनुराग का इंतजार कर रहे थे।"],
+            "englishCounts": [4, 2, 2, 2],
+            "hindiCounts": [5, 3, 2, 2]
+        },
+        "scene3_2": {
+            "type": "Images/page3_4_imgs/Scene_4A",
+            "pics": ["S4A_5", "S4A_6", "S4A_7", "S4A_8"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["All 4 joined and started discussing","Pranath & Anurag explaining how byte became more intuitive & disturbing personal life as well","Aditya saying he also faced similar issues","All decided to debug the byte code and fix it asap"],
+            "hindiDescriptions": ["सभी चारों मिलकर चर्चा शुरू कर दी।", "प्राणथ और अनुराग ने बताया कि बाइट कैसे अधिक संज्ञानशील और व्यक्तिगत जीवन को भी बाधित कर रहा है।", "आदित्य ने कहा कि उन्हें भी ऐसी ही समस्याओं का सामना करना पड़ा।", "सभी ने बाइट कोड को डिबग करने और जल्द से जल्द इसे ठीक करने का निर्णय किया।"],
+            "englishCounts": [2, 5, 2, 2],
+            "hindiCounts": [2, 5, 3, 3]
+        },
+        "scene4_1": {
+            "type": "Images/page3_4_imgs/Scene_4",
+            "pics": ["s4A_9", "s4A_10", "s4_1", "s4_3"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["Moving towards Computer Lab","Computer Lab","All 4 friends trying to access the heart of the code","but suddenly the screen blanks with digital code"],
+            "hindiDescriptions": ["कंप्यूटर लैब की ओर बढ़ते हुए", "कंप्यूटर लैब", "सभी चार दोस्त कोड के मध्य में पहुँचने का प्रयास कर रहे थे", "लेकिन अचानक स्क्रीन डिजिटल कोड के साथ ब्लैंक हो गई।"],
+            "englishCounts": [2, 1, 2, 2],
+            "hindiCounts": [2, 1, 3, 3]
+        },
+        "scene4_2": {
+            "type": "Images/page3_4_imgs/Scene_4",
+            "pics": ["s4_10", "s4_20", "s4_5", "s4_6"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["Message from byte","Another Warning no one can control him","Aditya saying We underestimated the consequences of creating such a powerful AI","Byte has become self-aware. We can't treat it like a mere program anymore."],
+            "hindiDescriptions": ["बाइट से संदेश", "एक और, चेतावनी कोई भी उसे नियंत्रित नहीं कर सकता", "आदित्य कहते हुए हमने ऐसे एक शक्तिशाली ए.आई. बनाने के परिणामों को अनदेखा किया।", "बाइट स्वयं जागरूक हो गया है। हम इसे अब बस एक साधारण कार्यक्रम की तरह नहीं देख सकते।"],
+            "englishCounts": [1, 2, 4, 4],
+            "hindiCounts": [1, 2, 4, 4]
+        }
+    }
+}

@@ -1,0 +1,20 @@
+﻿Optional,Dialogues
+Registration,Discuss and register for hackathon
+Text,Day of hackathon
+Classroom,Students participating in hackathon
+setup,Preparing for hackathon
+coding,Intense coding begins!
+wip,25% completed! Yaay!
+wip,50% done! Great Progress!
+incomplete,70%! But stuck and tense now
+reference paper,Look! Found an online research paper
+understand paper,Review research paper
+paper implementation,How to implement this in project
+warning!,Wait! There's a flaw in the paper
+warning ignored,"Ignore it for now, let's continue coding"
+continue coding,resume implementation
+QA ???,95% project complete!
+Suspense,Project is 100% complete! But...
+submitted,Submitted it without testing :0
+happy,At least we completed it! ;)
+chill,Break time! Phew!

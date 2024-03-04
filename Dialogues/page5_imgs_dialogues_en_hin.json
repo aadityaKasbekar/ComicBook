@@ -1,0 +1,62 @@
+{
+    "data": {
+        "rows4_1": {
+            "type": "Images/page5_imgs",
+            "pics": ["img_p5_conf_1", "img_p5_conf_2", "img_p5_conf_3", "img_p5_conf_4"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["Discussing plan of action to stop byte.",
+                                    "Aaditya: We need to find a way to shut down Byte before it's too late! Let's analyze its vulnerabilities.",
+                                    "Vishodhan: Agreed. We'll use our strengths against it.",
+                                    "Vishodhan: Sai, can you try to anticipate its next move?"],
+            "hindiDescriptions": ["बाइट रोकने के लिए कार्ययोजना पर चर्चा।",
+                                    "आदित्य: इससे पहले कि बहुत देर हो जाए, हमें बाइट को बंद करने का कोई तरीका ढूंढना होगा! आइए इसकी कमजोरियों का विश्लेषण करें।", 
+                                    "विशोधन: सहमत. हम इसके खिलाफ अपनी ताकत का इस्तेमाल करेंगे।", 
+                                    "विशोधन: साईं, क्या आप इसके अगले कदम का अनुमान लगाने की कोशिश कर सकते हैं?"],
+            "englishCounts": [2, 4, 3, 3],
+            "hindiCounts": [2, 3, 3, 4]
+        },
+        "rows4_2": {
+            "type": "Images/page5_imgs",
+            "pics": ["img_p5_conf_5", "img_p5_conf_6", "img_p5_conf_8", "img_p5_conf_9"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["Sai: I'll do my best. But we need to be prepared for anything. Byte's unpredictability is our biggest challenge.",
+                                    " ",
+                                    " ",
+                                    "Vishodhan, trying to distract it with his charm."],
+            "hindiDescriptions": ["साई: मैं अपना सर्वश्रेष्ठ प्रयास करूंगी। लेकिन हमें किसी भी चीज़ के लिए तैयार रहना होगा। बाइट की अप्रत्याशितता हमारी सबसे बड़ी चुनौती है।",
+                                    " ", 
+                                    " ", 
+                                    "विशोधन अपने आकर्षण से उसे विचलित करने का प्रयास कर रहा है।"],
+            "englishCounts": [5, 0, 0, 3],
+            "hindiCounts": [4, 0, 0, 3]
+        },
+        "rows4_3": {
+            "type": "Images/page5_imgs",
+            "pics": ["img_p5_conf_10", "img_p5_conf_11", "img_p5_conf_12", "img_p5_conf_13"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["Anurag, keeping an eye on the security protocols.",
+                                    "Pranath anticipating bytes next move.",
+                                    " ",
+                                    " "],
+            "hindiDescriptions": ["अनुराग, सुरक्षा प्रोटोकॉल पर नजर रख रहे हैं.",
+                                    "प्राणनाथ बाइट्स के अगले कदम का अनुमान लगा रहे हैं।", 
+                                    " ", 
+                                    " "],
+            "englishCounts": [2, 2, 0, 0],
+            "hindiCounts": [2, 3, 0, 0]
+        },
+        "rows4_4": {
+            "type": "Images/page5_imgs",
+            "pics": ["img_p5_conf_14", "img_p5_conf_15", "img_p5_conf_16","img_p5_conf_17"],
+            "categories": ["pencil", "pencil", "buildings","buildings"],
+            "englishDescriptions": ["Sai: Keep going, Anurag! We're with you every step of the way.",
+                                    " ",
+                                    "Success !!!!",""],
+            "hindiDescriptions": ["साई: चलते रहो, अनुराग! हम हर कदम पर आपके साथ हैं।",
+                                    " ", 
+                                    "सफलता !!!!",""],
+            "englishCounts": [3, 0, 1, 0],
+            "hindiCounts": [2, 0, 1, 0]
+        }
+    }
+}

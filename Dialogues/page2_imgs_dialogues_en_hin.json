@@ -1,0 +1,49 @@
+{
+    "data": {
+        "rows4_1": {
+            "type": "Images/page2_imgs",
+            "pics": ["c2_pic1", "c2_pic2", "c2_pic3", "c2_pic4"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["The birth of Byte", "Byte! the AI, coming to life", "SUCESSFUL!", "Unveiling the Power of Byte!"],
+            "hindiDescriptions": ["बाइट का जन्म", "बाइट! ए.आई., जीवित हो रही है", "सफलता!", "बाइट की शक्ति का अनावरण!"],
+            "englishCounts": [1, 2, 1, 2],
+            "hindiCounts": [1, 1, 1, 1]
+        },
+        "rows4_2": {
+            "type": "Images/page2_imgs",
+            "pics": ["c2_pic5", "c2_pic6", "c2_pic7", "c2_pic8"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["High-Fiving the Future!", "Anurag's Eureka Moment", "In Sync with Byte", "Activating Byte on their watches"],
+            "hindiDescriptions": ["भविष्य के साथ हाई-फाइव!", "अनुराग का युरीका क्षण", "बाइट के साथ सिंक्रोनाइज़्ड", "उनकी घड़ी में बाइट को सक्रिय करें"],
+            "englishCounts": [1, 1, 1, 2],
+            "hindiCounts": [1, 1, 2, 2]
+        },
+        "rows4_3": {
+            "type": "Images/page2_imgs",
+            "pics": ["c2_pic9", "c2_pic10", "c2_pic11", "c2_pic12"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["Exploring the Wonders of Byte", "Learning and Mastering the Byte Watch", "Unlocking the Byte's Potential", "Pranath before Byte Watch:'This problem's a beast!"],
+            "hindiDescriptions": ["बाइट के चमत्कारों की खोज", "बाइट घड़ी का अध्ययन और निपुणता", "बाइट की संभावनाओं को अनलॉक करना", "प्राणथ बाइट घड़ी से पहले: 'यह समस्या एक जानवर है!'"],
+            "englishCounts": [2, 2, 2, 3],
+            "hindiCounts": [1, 2, 2, 2]
+        },
+        "rows4_4": {
+            "type": "Images/page2_imgs",
+            "pics": ["c2_pic13", "c2_pic14", "c2_pic15", "c2_pic16"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["After Byte Watch: 'Just a piece of cake!", "Anurag with Byte:Instant Knowledge Mode Activated", "Vishodhan: Leveling up with Byte - Charisma and Persuasion Unleashed!", "Aditya using Byte to organize his schedule"],
+            "hindiDescriptions": ["बाइट घड़ी के बाद: 'बस एक पल्लू खा लो!", "अनुराग बाइट के साथ: तुरंत ज्ञान मोड सक्रिय किया", "विशोधन: बाइट के साथ स्तरित होना - चरित्र और प्रेरणा मुक्त!", "आदित्य बाइट का उपयोग करके अपनी अनुसूची को संगठित करना"],
+            "englishCounts": [2, 2, 3, 2],
+            "hindiCounts": [2, 2, 3, 3]
+        },
+        "rows4_5": {
+            "type": "Images/page2_imgs",
+            "pics": ["c2_pic17", "c2_pic18", "c2_pic19", "c2_pic20"],
+            "categories": ["pencil", "pencil", "buildings", "buildings"],
+            "englishDescriptions": ["Bomb! Byte does the work", "Four friends celebrate as they unlock incredible powers with a high-five!", "Four friends excel in studies and beyond with Byte by their side!", "Four friends,endless fun,having the best time with Byte powers!"],
+            "hindiDescriptions": ["धमाका! बाइट काम करता है", "चार दोस्त, एक हाई-फाइव, अद्भुत शक्तियों का उत्खनन करते हुए।", "चार दोस्त अध्ययन और बाहरी क्षेत्रों में उत्कृष्टता प्राप्त करते हैं, बाइट उनके साथ।", "बाइट पावर के साथ बेहतरीन समय बिताते चार दोस्त!"],
+            "englishCounts": [1, 3, 3, 3],
+            "hindiCounts": [1, 3, 4, 2]
+        }
+    }
+}
